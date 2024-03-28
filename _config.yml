@@ -1,0 +1,5 @@
+name: Flatsharing
+description: Offers etc
+url: "https://flatsharing.github.io"
+markdown: kramdown
+highlighter: rouge
