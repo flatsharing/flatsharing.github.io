@@ -27,4 +27,4 @@
 
 **Контакты**
 
-Ждем отклика в Telegram https://t.me/smilingfox
+Ждем отклика в Telegram [@smilingfox](https://t.me/smilingfox)
